@@ -1,0 +1,2 @@
+# rublecoin
+ruble
